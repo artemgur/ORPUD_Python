@@ -1,0 +1,9 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentListInspection" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlDialectInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  </profile>
+</component>
